@@ -9,6 +9,9 @@ An interactive AI project using A* Algorithm where a mouse finds the shortest pa
 - GUI Controls (start/end)
 - Fancy Theme with Background Image
 
+### Author 
+- Maram Mounish Reddy
+
 ## Run the Project:
 ```bash
 python main.py
